@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://extadmincommands.github.io/blog</id>
-    <title>My Site Blog</title>
+    <title>Stormworks Extensive Admin Commands Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://extadmincommands.github.io/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Stormworks Extensive Admin Commands Blog</subtitle>
     <icon>https://extadmincommands.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
